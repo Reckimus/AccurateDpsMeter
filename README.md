@@ -14,3 +14,5 @@ drag it across the screen to your desired position.
 (optional): I recommend dragging Erenshors original built in meter
 off screen to the bottom right corner. I'll update the mod in the 
 future to be able to toggle the original off and on completely.
+
+BuiltinTurnOFF.dll is to toggle off the games built in meter so no more dragging it off screen
